@@ -12,12 +12,14 @@ This project is a Real-Time Employee Attendance and Work Hour Tracking System th
 
 ### Prerequisites
 - Python 3.x
-- Tkinter
 - OpenCV
 - dlib
-- Firebase
-- `pyttsx3`
-- `speech_recognition`
+- firebase_admin
+- pywt
+- numpy
+- datetime
+- imutils
+- pynput 
 
 ### Setup
 1. Clone the repository:
@@ -28,7 +30,7 @@ This project is a Real-Time Employee Attendance and Work Hour Tracking System th
 
 2. Install the required libraries:
     ```bash
-    pip install opencv-python dlib firebase pyttsx3 speech_recognition
+    pip install opencv-python dlib firebase_admin pywt numpy datetime imutils pynput 
     ```
 
 3. Set up Firebase:
@@ -41,16 +43,8 @@ This project is a Real-Time Employee Attendance and Work Hour Tracking System th
     python main.py
     ```
 
-2. Use the Tkinter interface to register employees, log attendance, and track work hours.
+2. Use the OpenCV interface to register employees, log attendance, and track work hours.
 
 3. The system will use face detection to identify employees and log their work hours in real-time.
 
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request if you have any improvements or bug fixes.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-For any questions or inquiries, please contact sayanroy1230.
 
