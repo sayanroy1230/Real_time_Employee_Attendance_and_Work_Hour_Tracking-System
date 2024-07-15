@@ -25,7 +25,6 @@ This project is a Real-Time Employee Attendance and Work Hour Tracking System th
 1. Clone the repository:
     ```bash
     git clone https://github.com/sayanroy1230/Real_time_Employee_Attendance_and_Work_Hour_Tracking-System.git
-    cd Real_time_Employee_Attendance_and_Work_Hour_Tracking-System
     ```
 
 2. Install the required libraries:
