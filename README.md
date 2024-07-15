@@ -1,13 +1,12 @@
 # Real-Time Employee Attendance and Work Hour Tracking System
 
 ## Overview
-This project is a Real-Time Employee Attendance and Work Hour Tracking System that leverages Python, Tkinter, OpenCV, dlib, and Firebase for efficient and accurate tracking of employee attendance and work hours. The system uses face detection technology to identify employees and log their work hours.
+This project is a Real-Time Employee Attendance and Work Hour Tracking System that leverages Python, OpenCV, dlib, and Firebase for efficient and accurate tracking of employee attendance and work hours. The system uses face detection technology to identify employees and log their work hours.
 
 ## Features
 - **Real-time face detection**: Uses OpenCV and dlib for accurate face detection.
-- **User interface**: Built with Tkinter for easy interaction.
+- **User interface**: Built with OpenCV for easy interaction.
 - **Database integration**: Uses Firebase to store attendance records and work hours.
-- **Voice interaction**: Includes voice recognition and interaction using `pyttsx3` and `speech_recognition` libraries.
 
 ## Installation
 
