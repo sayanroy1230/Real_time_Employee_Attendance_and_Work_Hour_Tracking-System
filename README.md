@@ -35,15 +35,10 @@ This project is a Real-Time Employee Attendance and Work Hour Tracking System th
 3. Set up Firebase:
     - Create a Firebase project.
     - Add your Firebase credentials and database URL to the project.
-
-## Usage
-1. Run the main application:
+    - 
+4. Run the main application:
     ```bash
     python main.py
     ```
-
-2. Use the OpenCV interface to register employees, log attendance, and track work hours.
-
-3. The system will use face detection to identify employees and log their work hours in real-time.
 
 
